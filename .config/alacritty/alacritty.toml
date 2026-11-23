@@ -1,0 +1,33 @@
+[cursor.style]
+blinking = "Off"
+shape = "Block"
+
+[font]
+size = 12.0
+
+[font.bold]
+family = "JetBrainsMono Nerd Font"
+style = "Bold"
+
+[font.normal]
+family = "JetBrainsMono Nerd Font"
+style = "Regular"
+
+[general]
+live_config_reload = true
+
+[terminal.shell]
+program = "/nix/store/377sxxyh0wy0r4r03l79sxqa6lgzq12n-zsh-5.9.1/bin/zsh"
+
+[window]
+decorations = "Full"
+dynamic_padding = true
+opacity = 0.95
+
+[window.dimensions]
+columns = 120
+lines = 35
+
+[window.padding]
+x = 10
+y = 10
