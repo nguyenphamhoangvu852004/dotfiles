@@ -1,5 +1,5 @@
 [cursor.style]
-blinking = "Off"
+"blinking" = "Off"
 shape = "Block"
 
 [font]
